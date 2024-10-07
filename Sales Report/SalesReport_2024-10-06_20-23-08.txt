@@ -1,0 +1,22 @@
+|Item|                       |Quantity Sold|     |Total Item Sales($)|
+----------------------------------------------------------------------
+
+                                                                      
+Potato Crisps                      0                    $0.00
+Stackers                           0                    $0.00
+Grain Waves                        0                    $0.00
+Cloud Popcorn                      0                    $0.00
+Moonpie                            0                    $0.00
+Cowtales                           0                    $0.00
+Wonka Bar                          0                    $0.00
+Crunchie                           0                    $0.00
+Cola                               0                    $0.00
+Dr. Salt                           0                    $0.00
+Mountain Melter                    0                    $0.00
+Heavy                              0                    $0.00
+U-Chews                            0                    $0.00
+Little League Chew                 0                    $0.00
+Chiclets                           0                    $0.00
+Triplemint                         0                    $0.00
+
+**TOTAL SALES**: $0.00

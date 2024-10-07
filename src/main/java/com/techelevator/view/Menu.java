@@ -27,6 +27,12 @@ public class Menu {
     private Object getChoiceFromUserInput(Object[] options) {
         Object choice = null;
         String userInput = in.nextLine();
+
+        if (userInput.equals("4")) {
+
+            return "4";
+        }
+
         try {
             int selectedOption = Integer.valueOf(userInput);
             if (selectedOption > 0 && selectedOption <= options.length) {
